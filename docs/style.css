@@ -496,8 +496,9 @@ p {
     padding: 1rem;
     overflow: auto;
 
-    background-color: rgb(180, 118, 118);
-    opacity: 0.9;
+    /*background-color: rgb(180, 118, 118);
+    opacity: 0.9;*/
+    background-color: rgb(104, 59, 59);
     position: fixed;
     top: 0;
     left: 0;
@@ -520,17 +521,17 @@ p {
 }
 
 .modal_title {
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: rgb(104, 59, 59);
     font-weight: bold;
     padding: 2rem 0;
     text-transform: uppercase;
-    font-style: italic;
+    font-style: montserrat;
 
 }
 
 .modal_photo {
-    width: 60%;
+    width: 70%;
 }
 
 .modall {
@@ -540,8 +541,9 @@ p {
     padding: 1rem;
     overflow: auto;
 
-    background-color: rgb(180, 118, 118);
-    opacity: 0.9;
+    /*background-color: rgb(180, 118, 118);
+    opacity: 0.9;*/
+    background-color: rgb(104, 59, 59);
     position: fixed;
     top: 0;
     left: 0;
