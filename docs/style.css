@@ -826,10 +826,10 @@ p {
         display: none;
     }
 
-    
-
-
-    
+    .modal_photo {
+        width: 98%;
+    }
+ 
 }
 
 
